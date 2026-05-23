@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tech Gadgets App Assignment</string>
+    <string name="tvTitle">Tech Gadget Wishlist</string>
+    <string name="tvScreen">Triple Aero Pro Max (Gen 2)</string>
+    <string name="tvDesk">Metro L-Desks with Adjustable Height Return</string>
+    <string name="tvKeyboard">Wireless gaming Keyboard and Mouse</string>
+    <string name="tvPC">CLX SET INTEL ADVANCED GAMING PC</string>
+    <string name="tvLamp">SKYLEO Desk Lamp</string>
+    <string name="btnScreen">View</string>
+    <string name="btnDesk">View</string>
+    <string name="btnKeyboard">View</string>
+    <string name="btnPC">View</string>
+    <string name="btnLamp">View</string>
+    <string name="view_more_info">View More Information</string>
+    <string name="gadget_image">Selected gadget image</string>
+    <string name="open_with">Open with</string>
+    <string name="invalid_url">This gadget link is invalid.</string>
+    <string name="no_browser_found">No browser app found on this device.</string>
+</resources>
